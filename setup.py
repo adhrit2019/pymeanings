@@ -7,8 +7,8 @@ def readme():
 setup(name='pymeanings',
       version='1.0',
       description='Getting meanings in a GUI dailog box',
-      long_description=readme()
-      url='http://github.com/storborg/funniest',
+      long_description=readme(),
+      url='https://github.com/adhrit2019/pymeanings',
       author='Adhrit Pramanik',
       author_email='adhrit2019@gmail.com',
       license='MIT',
