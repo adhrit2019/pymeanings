@@ -1,6 +1,6 @@
 # PyMeanings
 
-#### Video Demo: <URL HERE>
+#### Video Demo: <https://youtu.be/ibwAeNsfSNs>
 
 #### Description:
 
